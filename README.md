@@ -7,6 +7,10 @@ The site is getting a random message from the xml file and showing off to the us
 It has two "arrows" to left and to right on oposed screen's side to indicate a content to be viewed.
 It is with two languages EN-US and PT-BR.
 
+# Address:
+https://healerwords.com
+
+
 
 # Next Update
 
